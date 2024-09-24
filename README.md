@@ -1,2 +1,2 @@
 # PCD---Boletim
-Boletim inteligente que apresetna estatísticas dos desenpenhos individuais e gerais.
+Boletim inteligente que apresenta estatísticas dos desenpenhos individuais e gerais.
